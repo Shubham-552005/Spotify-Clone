@@ -4,10 +4,8 @@ This project is a simple clone of the Spotify web player interface, built using 
 
 ## Features
 
-- Responsive layout design for various screen sizes.
 - Mimics the basic structure and styling of the Spotify web player interface.
 - Utilizes CSS Flexbox for layout management.
-- Includes placeholder content for demonstration purposes.
 
 ## Usage
 
